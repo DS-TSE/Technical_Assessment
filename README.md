@@ -10,25 +10,25 @@ Please utilize the contents of this repository to complete the following tasks:
 2. Import the DS_TSE_TechTemplate.zip template to your account and attempt the following:
      - Create a new envelope using the purchase_order.pdf
      - Why does the template matching of the imported template not automatically match the uploaded purchase_order.pdf?
-3. After resolving the template matching, modify the template provided with the following changes:
+3. After resolving the template matching, modify the template provided with the following changes and send the envelope to yourself:
     - Add a conditional recipient with the following parameters
-    	- Sending order 1
-    	- Group Name: Accounting
-    	- Role: High value deal approval
-    	- Name and Email that you have access to
-    	- Add a signature to the Purchase Order ( anywhere in the document ) for the conditional recipient
-    	- Add a rule for this signature
-     		- If the the Grand Total is Greater than 1000
-    		- Route to the High value deal approval role
+        - Sending order 1
+        - Group Name: Accounting
+        - Role: High value deal approval
+        - Name and Email that you have access to
+        - Add a signature to the Purchase Order ( anywhere in the document ) for the conditional recipient
+        - Add a rule for this signature
+            - If the the Grand Total is Greater than 1000
+            - Route to the High value deal approval role
     - Add a second recipient role named Legal
     - Add a 1 page Document to the envelope ( e.g. a blank word doc )
     - Make the Legal role's recipient action "needs to view"
     - Restrict the visibilty of the 1 page document you uploaded to the legal recipient.
-  - Send the envelope to yourself in all roles
+		
 4. Modify the API call in API TEST 1 to send successfully.
 
-
-When prompted, please submit the envelopeIDs of the successfully sent envelopes for sections 1,3, and 4. For section 4 also include your completed API call to the recruiting coordinator.
+## Completion
+When prompted, please submit the envelopeIDs of the successfully sent envelopes for sections 1, 3, and 4. For section 4 also include your completed API call to the recruiting coordinator.
 
 ## Notice
 Please be prepared to discuss your progress during the technical portion of your interview, including any challenges you encountered, potentially sending one of the envelopes and/or running the API call live during the interview. If you were unsuccessful at any portion of this assessment, please be prepared to discuss the obstacles you encountered and the steps you attempted to move forward.
