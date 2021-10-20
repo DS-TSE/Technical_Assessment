@@ -21,9 +21,9 @@ Please utilize the contents of this repository to complete the following tasks:
             - If the the Grand Total is Greater than 1000
             - Route to the High value deal approval role
     - Add a second recipient role named Legal
-    - Add a 1 page Document to the envelope ( e.g. a blank word doc )
+    - Add a 1 page Document to the template ( e.g. a blank word doc )
     - Make the Legal role's recipient action "needs to view"
-    - Restrict the visibilty of the 1 page document you uploaded to the legal recipient.
+    - Restrict the visibility of the 1 page document you uploaded to the legal recipient.
 		
 4. Modify the API call in API TEST 1 to send successfully.
 
