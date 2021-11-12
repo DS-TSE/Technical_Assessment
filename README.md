@@ -25,11 +25,12 @@ Please utilize the contents of this repository to complete the following tasks:
     - Make the Legal role's recipient the last in the routing order, and set their action to "needs to view"
     - Restrict the visibility of the 1 page document you uploaded to the legal recipient.
     - Ensure open the envelope as each of the signers and ensure that the legal recipient cannot view the additional 1 page document.
+    - Send the envelope based on the template and make sure all roles sign, including the High value deal approval role. 
 		
 4. Modify the API call in API TEST 1 to send successfully.
 
 ## Completion
-When prompted, please submit the envelopeIDs of the successfully sent envelopes for sections 1, 3, and 4. For section 4 also include your completed API call to the recruiting coordinator.
+When prompted, please submit the envelopeIDs of the successfully sent envelopes for sections 1, 3, and 4. For question 3, also export the template and include the zip file in your submission.  For section 4 also include your completed JSON API call to the recruiting coordinator.
 
 ## Notice
 Please be prepared to discuss your progress during the technical portion of your interview, including any challenges you encountered, potentially sending one of the envelopes and/or running the API call live during the interview. If you were unsuccessful at any portion of this assessment, please be prepared to discuss the obstacles you encountered and the steps you attempted to move forward.
