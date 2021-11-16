@@ -32,8 +32,11 @@ Please utilize the contents of this repository to complete the following tasks:
 ## Completion
 When prompted, please submit the envelopeIDs of the successfully sent envelopes for sections 1, 3, and 4. For question 3, also export the template and include the zip file in your submission.  For section 4 also include your completed JSON API call to the recruiting coordinator.
 
+If you run into issues or have questions with the evaluation please contact us at [ds-tse-interview@docusign.com](mailto:ds-tse-interview@docusign.com)
+
 ## Notice
 Please be prepared to discuss your progress during the technical portion of your interview, including any challenges you encountered, potentially sending one of the envelopes and/or running the API call live during the interview. If you were unsuccessful at any portion of this assessment, please be prepared to discuss the obstacles you encountered and the steps you attempted to move forward.
+
 
 ## Resources
 - [DocuSign Dev Sandbox](https://go.docusign.com/sandbox/productshot/)
