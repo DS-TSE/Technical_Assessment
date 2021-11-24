@@ -2,15 +2,18 @@
 
 ## Assessment Introduction
 
-This repository contains the materials for the DocuSign Technical Support Engineer candidate technical assessment. You will need a [Developer sandbox](https://go.docusign.com/sandbox/productshot/) to complete these tasks, please request one via the link. 
+This repository contains the materials for the DocuSign Technical Support Engineer candidate technical assessment. You will need a [Developer sandbox](https://go.docusign.com/sandbox/productshot/) to complete these tasks, please request one via the link. During this assessment, you may experience error messages, inconsistent application behavior, or steps that cannot be achived. Please treat the tasks below as hypotheitcal cases that a customer has submitted. 
 
 Please utilize the contents of this repository to complete the following tasks:
 
 1. Using the purchase_order.pdf file in this repository, create and send an envelope.
-2. Import the DS_TSE_TechTemplate.zip template to your account and attempt the following:
+     - **Case submission:** Hello support, I tried to send the attached purchase_order.pdf to my co-worker but I'm receiveing an error message, I'm not sure what it means, can you help?
+     - Please also include a response you would write to this cusotmer in your sbmission to the recruiter. 
+2. Import the DS_TSE_TechTemplate.zip template to your developer account and attempt the following:
+     - This imported template has automatic template matching enabled, and uploading the purchase_order.pdf would normally trigger automatic template matching.
      - Create a new envelope using the purchase_order.pdf
-     - Why does the template matching of the imported template not automatically match the uploaded purchase_order.pdf?
-3. After resolving the template matching, modify the template provided with the following changes and send the envelope to yourself:
+     - **Case submission:** Hello support, I migrated this template from my demo account to my production account, but when I try to use template matching, it's not working automatically. Why does the template matching of the imported template not automatically match the uploaded purchase_order.pdf?
+3. Modify the template provided with the following changes and send the envelope to yourself:
     - Add a conditional recipient with the following parameters
         - Sending order 1
         - Group Name: Accounting
