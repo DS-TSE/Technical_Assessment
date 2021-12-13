@@ -8,7 +8,7 @@ Please utilize the contents of this repository to complete the following tasks:
 
 1. Using the purchase_order.pdf file in this repository, create and send an envelope.
      - **Case submission:** Hello support, I tried to send the attached purchase_order.pdf to my co-worker but I'm receiveing an error message, I'm not sure what it means, can you help?
-     - Please also include a response you would write to this cusotmer in your sbmission to the recruiter. 
+     - Please include a response you would write to this cusotmer, and include it in your sbmission to the recruiter. 
 2. Import the DS_TSE_TechTemplate.zip template to your developer account and attempt the following:
      - This imported template has automatic template matching enabled, and uploading the purchase_order.pdf would normally trigger automatic template matching.
      - Create a new envelope using the purchase_order.pdf
@@ -27,7 +27,7 @@ Please utilize the contents of this repository to complete the following tasks:
     - Add a 1 page Document to the template ( e.g. a blank word doc )
     - Make the Legal role's recipient the last in the routing order, and set their action to "needs to view"
     - Restrict the visibility of the 1 page document you uploaded to the legal recipient.
-    - Ensure open the envelope as each of the signers and ensure that the legal recipient cannot view the additional 1 page document.
+    - Open the envelope as each of the signers and ensure that the legal recipient cannot view the additional 1 page document.
     - Send the envelope based on the template and make sure all roles sign, including the High value deal approval role. 
 		
 4. Modify the API call in API TEST 1 to send successfully.
