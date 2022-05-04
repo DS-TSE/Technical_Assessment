@@ -26,7 +26,7 @@ Please utilize the contents of this repository to complete the following tasks:
     - Add a second recipient role named Legal
     - Add a 1 page Document to the template ( e.g. a blank word doc )
     - Make the Legal role's recipient the last in the routing order, and set their action to "needs to view"
-    - Restrict the visibility of the 1 page document you uploaded to the legal recipient.
+    - Restrict the visibility of the 1 page document you uploaded to all recipients except the legal recipient.
     - Open the envelope as each of the signers and ensure that the legal recipient cannot view the additional 1 page document.
     - Send the envelope based on the template and make sure all roles sign, including the High value deal approval role. 
 		
