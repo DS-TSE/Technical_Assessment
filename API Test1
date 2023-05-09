@@ -21,7 +21,7 @@ POST - https://demo.docusign.net/restapi/accounts/12345678/envelopes
         }
       },
       {
-        "email": "",
+        "email": "thebatman@jakedstest.xyz",
         "name": "Bruce Wayne",
         "recipientId": 1, 
         "tabs": {
