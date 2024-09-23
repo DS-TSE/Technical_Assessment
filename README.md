@@ -2,7 +2,7 @@
 ​
 ## Assessment Introduction
 ​
-This repository contains the materials for the DocuSign Technical Support Engineer candidate technical assessment. You will need a [Developer sandbox](https://go.docusign.com/sandbox/productshot/) to complete these tasks, please request one via the link. During this assessment, you may experience error messages, inconsistent application behaviour, or steps that cannot be achieved. Please treat the tasks below as hypothetical cases that a customer has submitted. 
+This repository contains the materials for the DocuSign Technical Support Engineer candidate technical assessment. You will need a [Developer sandbox]([https://go.docusign.com/sandbox/productshot/](https://go.docusign.com/o/sandbox/?postActivateUrl=https://developers.docusign.com/&_gl=1*aeosm0*_gcl_aw*R0NMLjE3MjYwNTM3NjcuQ2p3S0NBandfNFMzQmhBQUVpd0FfNjRZaGlXUExWUFdKZndjSjVra2xzV0pQaXlUbTlMdExvZHVJMV8tb2hCRkRtb1dva3NWRnE4Xy14b0NBbk1RQXZEX0J3RQ..*_gcl_au*Mzg3MjQ3MDU1LjE3MjAxODYxMzM.)) to complete these tasks, please request one via the link. During this assessment, you may experience error messages, inconsistent application behaviour, or steps that cannot be achieved. Please treat the tasks below as hypothetical cases that a customer has submitted. 
 ​
 Please utilize the contents of this repository to complete the following tasks:
 ​
